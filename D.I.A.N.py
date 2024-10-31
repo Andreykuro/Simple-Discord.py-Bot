@@ -99,4 +99,4 @@ async def Founder(ctx):
     embed.set_author(name=ctx.author.display_name)
     await ctx.send(embed=embed)
 
-client.run('MTI3ODMyMzg2MDgzNTY2ODA5Mw.G1VEFH.n6FIO-d7jSfUAQd-kUQVB6V0zzVcCizC-Nutmk')
+client.run('token')
